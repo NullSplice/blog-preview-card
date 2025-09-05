@@ -2,6 +2,7 @@
 # Frontend Mentor - Blog Preview Card
 
 This is my solution to the **Blog Preview Card** challenge on [Frontend Mentor](https://www.frontendmentor.io). It helped me practice semantic HTML, scoped CSS, Flexbox alignement, and dealing with CSS specificity.
+
 ---
 
 ## 🔗 Live Demo
